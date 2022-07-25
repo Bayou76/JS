@@ -16,5 +16,4 @@ while (alea != result) {
     result = prompt("choisissez un nombre entre 0 et 100");
 }
  
-// Ce message ne s'affichera seulement si le choixUtilisateur == choixOrdi (boucle while vérifiée)
 alert("vous avez trouvé le bon chiffre bravo !");
