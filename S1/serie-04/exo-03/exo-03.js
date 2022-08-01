@@ -1,4 +1,5 @@
 let tab = [2, 3,4,3,2];
+let tab2 = [3,4,3,2,3,1]
 
 function palindrome(tab){
     for (let i = 0; i < tab.length; i++) {
@@ -10,3 +11,4 @@ function palindrome(tab){
 }
 
 console.log(palindrome(tab));
+console.log(palindrome(tab2));
